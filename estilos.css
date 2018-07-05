@@ -1,0 +1,46 @@
+/*// estilos login*/
+
+
+body {
+    padding-top: 200px;
+    padding-bottom: 40px;
+    background-color: #eee;
+}
+
+
+
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+}
+
+.form-signin .form-signin-heading, .form-signin .checkbox {
+    margin-bottom: 10px;
+}
+
+.container { background-image: url(degradado/rombo.jpg);
+			background-repeat: no-repeat;
+			background-position: center; 
+			height: 290px;
+}
+
+.btn-primary {
+    color: #f1f5f9;
+    background-color: #337ab7;
+    border-color: #337ab8;
+}
+
+h2 { color:#fff; }
+
+label { color:#fdfefe;
+}
+
+.form-control { margin-bottom: 15px; }
+
+ 
+
+ 
+	.button:active { transform: translateY(4px);
+		transition: all 0.3s ease;
+}
